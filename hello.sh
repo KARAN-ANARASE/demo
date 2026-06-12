@@ -1,1 +1,1 @@
-echo "hello jenkins*sdfasdfsadfasdf"
+echo "hello jenki****ns*sdfasdfsadfasdf"
